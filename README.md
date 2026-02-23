@@ -1,0 +1,3 @@
+## Experiment 1: Tensor Operations using PyTorch and NumPy
+
+This experiment focused on creating and manipulating 1D, 2D, and 3D tensors using PyTorch and NumPy. Basic mathematical operations, including element-wise arithmetic, dot product, and matrix multiplication, were performed. We also explored indexing, slicing, boolean masking, and tensor reshaping using functions like **.view(), .reshape(), .unsqueeze(), and .squeeze()**. Additionally, broadcasting concepts and the difference between **in-place** and **out-of-place** operations were demonstrated to understand efficient tensor computations.
